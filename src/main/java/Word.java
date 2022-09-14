@@ -25,7 +25,7 @@ public class Word {
         return level;
     }
 
-    public void setLevel() {
+    public void setLevel(int level) {
         this.level = level;
     }
 
@@ -33,7 +33,7 @@ public class Word {
         return word;
     }
 
-    public void setWord() {
+    public void setWord(String word) {
         this.word = word;
     }
 
@@ -41,8 +41,8 @@ public class Word {
         return meaning;
     }
 
-    public void setMeaning() {
-        this.meaning = meaning;
+    public void setMeaning(String meaning) {
+        this.meaning = this.meaning;
     }
 
 
