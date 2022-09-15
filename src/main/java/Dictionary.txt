@@ -31,3 +31,4 @@
 3|slave|노예
 3|settler|이주민
 3|exchange|교환
+1| apple|사과
