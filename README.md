@@ -3,7 +3,7 @@
 [0. 나가기 기능]   
  <img width="285" alt="나가기" src="https://user-images.githubusercontent.com/112387593/188550041-5191bd78-c114-4562-bec9-0515d6874a67.png">  
 [1. 모든 단어보기 기능]   
-<img width="308" alt="모든단어보기" src="https://user-images.githubusercontent.com/112387593/188550524-c985c930-0c7d-445e-9779-921ae12c1e89.png">  
+<img width="203" alt="listAll" src="https://user-images.githubusercontent.com/112387593/190841783-3d8cae2d-60d3-42f6-9158-23963be3c419.png">   
 [2. 수준별 단어보기 기능]   
 <img width="332" alt="searchLevel" src="https://user-images.githubusercontent.com/112387593/190841085-b469182c-c3e6-47cf-852a-39de5d885f7e.png">   
 [3. 단어 검색 기능]   
