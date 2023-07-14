@@ -21,3 +21,4 @@
 
 혜은 test  
 from test_jh  
+test my  
